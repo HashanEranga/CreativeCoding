@@ -39,6 +39,7 @@ const sketch = () => {
       context.rect(w*0.5,h*0.5,w,h)
       context.fill()
       context.restore()
+      
     }
   };
 };
